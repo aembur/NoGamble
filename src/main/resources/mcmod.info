@@ -1,16 +1,16 @@
 [
-{
-  "modid": "nobar",
-  "name": "NoBar",
-  "description": "Blocks gambling commands.",
-  "version": "0.1.2",
-  "mcversion": "${mcversion}",
-  "url": "https://github.com/aembur/no-bar",
-  "updateUrl": "",
-  "authorList": ["aembr"],
-  "credits": "Thanks to bodeget2020 for the mod idea",
-  "logoFile": "",
-  "screenshots": [],
-  "dependencies": []
-}
+	{
+		"modid": "nobar",
+		"name": "NoBar",
+		"description": "Blocks gambling commands",
+		"version": "${version}",
+		"mcversion": "1.12.2",
+		"url": "",
+		"updateUrl": "",
+		"authorList": ["aembr"],
+		"credits": "",
+		"logoFile": "",
+		"screenshots": [],
+		"dependencies": []
+	}
 ]
