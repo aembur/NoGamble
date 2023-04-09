@@ -1,8 +1,23 @@
 {
   "patterns": [
-    "/bar"
+    "^/bar",
+    "^/warp bar",
+    "^/warp chess",
+    "^/cointoss .*",
+    "^/lottery buy \\d+"
   ],
   "notifications": [
-    "Nope!"
+    "Don't even think about it.",
+    "Stop right there, criminal scum! You violated the law!",
+    "Do it again and I'm sending your money to a random.",
+    "Gamble responsibly? How about not gambling at all?",
+    "Nice try, but I'm on to you.",
+    "I'm not gonna let you do that.",
+    "Gambling? Not on my watch.",
+    "No.",
+    "Nope!",
+    "It's not worth it.",
+    "Seek help.",
+    "Go touch some grass instead."
   ]
 }

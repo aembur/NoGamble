@@ -66,7 +66,7 @@ public class NoGamble {
 		File configFile = new File(configDir, CONFIG_FILE_NAME);
 		if (!configFile.exists()) {
 			try {
-				InputStream defaultConfigStream = getClass().getResourceAsStream("/default.json");
+				InputStream defaultConfigStream = getClass().getResourceAsStream("/default-config.json");
 				Files.copy(defaultConfigStream, configFile.toPath());
 			} catch (IOException e) {
 				e.printStackTrace();
