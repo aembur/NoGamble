@@ -1,0 +1,8 @@
+{
+  "patterns": [
+    "/bar"
+  ],
+  "notifications": [
+    "Nope!"
+  ]
+}
