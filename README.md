@@ -1,6 +1,6 @@
 # NoGamble
 
-NoGamble is a simple client-side 1.12.2 Forge mod which aims to discourage people from gambling by intercepting certain messages like `/bar`, `/cointoss`, and "/lottery buy" and cancelling them.
+NoGamble is a simple client-side 1.12.2 Forge mod which aims to discourage people from gambling by intercepting certain messages like `/bar`, `/cointoss`, and `/lottery buy` and cancelling them.
 
 ## Installation
 1. Install the latest [Forge](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.12.2.html) for 1.12.2
